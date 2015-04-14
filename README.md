@@ -91,11 +91,11 @@ This project was inspired by [the changelog podcast](https://thechangelog.com/po
 
 #### Open Questions
 
+<!--
 ## Contributors:
 
 This document started in 2015 as a collaboration of [@czerasz](https://twitter.com/czerasz).
 
-<!--
 It has since received contributions from over [x developers](https://github.com/czerasz/DevOps-Interview-Questions/graphs/contributors).
 -->
 
